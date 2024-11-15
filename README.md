@@ -71,13 +71,13 @@ I'm Hamza Shafiq.
 
  <p align="center"> <b> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/eye.svg" title="watching" alt="watching" width="20" height="15"> Visitor Count </b> </p>
  <div align="center">
- <img src="https://profile-counter.glitch.me/{saeedahmadicp}/count.svg" alt="saeedahmadicp" />
+ <img src="https://profile-counter.glitch.me/{hamzashafiq28}/count.svg" alt="saeedahmadicp" />
 </div>
 
 ---
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeedahmadicp&theme=neon-palenight&background=#252525&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzashafiq28&theme=neon-palenight&background=#252525&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 <!--
