@@ -68,6 +68,7 @@ I'm Hamza Shafiq.
 </div>
 --- 
 -->
+<!--
 
  <p align="center"> <b> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/eye.svg" title="watching" alt="watching" width="20" height="15"> Visitor Count </b> </p>
  <div align="center">
@@ -79,7 +80,7 @@ I'm Hamza Shafiq.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzashafiq28&theme=neon-palenight&background=#252525&hide_border=true)](https://git.io/streak-stats)
 </div>
-
+-->
 <!--
 **hamzashafiq28/hamzashafiq28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
