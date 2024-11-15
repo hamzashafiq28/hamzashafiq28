@@ -3,7 +3,7 @@
 I'm Hamza Shafiq.
 - 💼 Working as an AI Research Engineer at [IKLab Inc.](https://iklab.ai/) in Seoul, South Korea. 
 - 💼 Worked as a Research Assistant at [Multimedia Information Processing Lab](https://sites.google.com/view/miplab-chosun/mips-lab-in-chosun-university?authuser=0)  
-- 👨‍🎓 Completed Master's Degree in Artificial Intelligence from [Chosun University]([https://www.ut.ac.kr/english.do](https://eng.chosun.ac.kr/eng/index.do))
+- 👨‍🎓 Completed Master's Degree with focus on Artificial Intelligence from [Chosun University]([https://www.ut.ac.kr/english.do](https://eng.chosun.ac.kr/eng/index.do))
 - 👨‍🎓 Completed Bachelor's Degree from [University of Engineering and Technology Lahore](https://www.uet.edu.pk/home/)
 - 📚 Concentrations in Machine Learning and Computer Vision
 
