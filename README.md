@@ -11,10 +11,10 @@ I'm Hamza Shafiq.
 
 <a href="https://www.linkedin.com/in/hamzashafiq28/">
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+
 <a href="https://hamzashafiq.me">
     <img src="https://img.shields.io/badge/Personal%20Webpage-8A2BE2" alt="Personal Webpage Badge"/>
-</a> -->
+</a> 
 <!--
 <a href="https://twitter.com/saeedkhan_ai">
     <img src="https://img.shields.io/badge/twitter-grey?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
